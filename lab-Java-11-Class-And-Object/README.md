@@ -1,5 +1,5 @@
 # Week-1-Day-1-Lab-1
-Week - 1 - Day -1 - Lab -1
+
 Sara has her psychology thesis submission tomorrow. She had vowed to her friends that she would digitise her ideas so that anyone can find their personality by giving their (relevant) informations. She has the brains but she lacks to code it. Help Sara to mock her friends by building this personality trait application.
 
 # Your role:
